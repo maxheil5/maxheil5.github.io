@@ -1,6 +1,5 @@
 ---
-title: Autonomous Magnetized Cryo-Couplers with Active
-Alignment Control for Propellant Transfer (AMCC-AAC)
+title: Autonomous Magnetized Cryo-Couplers with Active Alignment Control for Propellant Transfer (AMCC-AAC)
 date: 2025-03-30 08:01:35 +0300
 subtitle: Space Systems
 image: '/images/NASA_HuLC_Concept.jpg'
