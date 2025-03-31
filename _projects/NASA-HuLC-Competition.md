@@ -2,7 +2,7 @@
 title: NASA Human Lander Challenge
 date: 2025-03-30 08:01:35 +0300
 subtitle: Space Systems
-image: '/images/NASA_HuLC_Coupler.png'
+image: '/images/NASA_HuLC_Concept.jpg'
 ---
 In the dynamic world of design and development, creativity and innovation intertwine to shape the digital landscape. Design, with its essence of simplicity and elegance, serves as the foundation upon which every digital experience is built. From the sleek lines of a minimalist interface to the vibrant colors of a captivating brand identity, design captivates and engages users, guiding them through a journey of discovery and interaction.
 
