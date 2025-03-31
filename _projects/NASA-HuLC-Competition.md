@@ -1,10 +1,11 @@
 ---
-title: NASA Human Lander Challenge
+title: Autonomous Magnetized Cryo-Couplers with Active
+Alignment Control for Propellant Transfer (AMCC-AAC)
 date: 2025-03-30 08:01:35 +0300
 subtitle: Space Systems
 image: '/images/NASA_HuLC_Concept.jpg'
 ---
-In the dynamic world of design and development, creativity and innovation intertwine to shape the digital landscape. Design, with its essence of simplicity and elegance, serves as the foundation upon which every digital experience is built. From the sleek lines of a minimalist interface to the vibrant colors of a captivating brand identity, design captivates and engages users, guiding them through a journey of discovery and interaction.
+In a unique opportunity, I was able to collaborate with 12 engineers from Ohio State to create an automated cryogenic refueling system for NASA's Human Lander System (HLS). In the dynamic world of design and development, creativity and innovation intertwine to shape the digital landscape. Design, with its essence of simplicity and elegance, serves as the foundation upon which every digital experience is built. From the sleek lines of a minimalist interface to the vibrant colors of a captivating brand identity, design captivates and engages users, guiding them through a journey of discovery and interaction.
 
 <div class="gallery-box">
   <div class="gallery gallery-columns-2">
