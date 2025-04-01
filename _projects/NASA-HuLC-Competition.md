@@ -4,7 +4,7 @@ date: 2025-03-30 08:01:35 +0300
 subtitle: Space Systems
 image: '/images/NASA_HuLC_Concept.jpg'
 ---
-In a unique opportunity, I was able to collaborate with 12 engineers from Ohio State to create an automated cryogenic refueling system for NASA's Human Lander System (HLS). In the dynamic world of design and development, creativity and innovation intertwine to shape the digital landscape. Design, with its essence of simplicity and elegance, serves as the foundation upon which every digital experience is built. From the sleek lines of a minimalist interface to the vibrant colors of a captivating brand identity, design captivates and engages users, guiding them through a journey of discovery and interaction.
+In a unique opportunity, I was able to collaborate with 12 engineers from Ohio State to create an automated cryogenic refueling system for NASA's Human Lander System (HLS). Our design consists of a computer vision (CV) driven actuator alignment system that it used to autmatically connect two couplers for refueling on-orbit. For close proximity alignment, we developed an electromagnetic connection subcomponent that assists the AI alignment in the final compression phases. Through these methods, we reduce and possibly eliminate the need for constant human interaction when performing refueling missions in space. This will ultimately increase the likelihood for successful propellant transfer and help achieve NASA's efforts to conduct long duration missions to the Moon. To learn more, read about the current status of the project below! This page will be updated with new information, when available.
 
 <div class="gallery-box">
   <div class="gallery gallery-columns-2">
