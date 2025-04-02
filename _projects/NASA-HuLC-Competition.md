@@ -33,7 +33,9 @@ In a unique opportunity, I was able to collaborate with 10 engineers from The Oh
   <source src="/images/Coupler_Assembly_V3_w_Tanks_Animation_4k_Test_Motion Study.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-<em>System Overview Animation / <a href="https://maxheil5.github.io/about/">Max Heil</a></em>
+<div class="gallery-box">
+  <em>System Overview Animation / <a href="https://maxheil5.github.io/about/">Max Heil</a></em>
+</div>
 
 ## Technical Solution
 
