@@ -29,11 +29,13 @@ In a unique opportunity, I was able to collaborate with 10 engineers from The Oh
   <em>Concept Renderings / <a href="https://maxheil5.github.io/about/">Max Heil</a></em>
 </div>
 
-<video width="100%" autoplay loop muted playsinline>
-  <source src="/images/Coupler_Assembly_V3_w_Tanks_Animation_4k_Test_Motion Study.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 <div class="gallery-box">
+  <div class="gallery">
+    <video width="100%" autoplay loop muted playsinline>
+      <source src="/images/Coupler_Assembly_V3_w_Tanks_Animation_4k_Test_Motion Study.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
   <em>System Overview Animation / <a href="https://maxheil5.github.io/about/">Max Heil</a></em>
 </div>
 
