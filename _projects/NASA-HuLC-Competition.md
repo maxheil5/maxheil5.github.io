@@ -21,9 +21,8 @@ Click below to view the full HuLC proposal:
     <img src="/images/Concept_Stowed_Config_HuLC_Camera_SOLIDWORKS Viewport.jpg" loading="lazy" alt="Project">
     <img src="/images/V3_Open_High_Contrast_Grey12_Close_Up_Camera_SOLIDWORKS Viewport.jpg" loading="lazy" alt="Project">
     <img src="/images/V3_Open_Studio_Softbox_Camera_SOLIDWORKS Viewport.jpg" loading="lazy" alt="Project">
-    <img src="/images/Test_Render_Camera_Default Camera.jpg" loading="lazy" alt="Project">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/">Unsplash</a></em>
+  <em>Concept Renderings / <a href="https://maxheil5.github.io/about/">Max Heil</a></em>
 </div>
 
 Development, on the other hand, is the engine that drives these digital experiences forward, translating design concepts into functional realities. With each line of code, developers breathe life into ideas, transforming visions into tangible products that enrich and empower users' lives. Agile methodologies empower development teams to adapt and evolve in response to changing needs, ensuring that products remain relevant and responsive in an ever-changing landscape.
