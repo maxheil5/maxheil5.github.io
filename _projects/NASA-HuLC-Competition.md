@@ -16,8 +16,6 @@ Click below to view the full HuLC proposal:
   </a>
 </p>
 
-<iframe src="/files/NASA_HuLC_Proposal_Watermarked.pdf" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
-
 <div class="gallery-box">
   <div class="gallery gallery-columns-2">
     <img src="/images/project-example-1.jpg" loading="lazy" alt="Project">
