@@ -19,6 +19,21 @@ In a unique opportunity, I was able to collaborate with 10 engineers from The Oh
   Participation in HuLC provides students with a platform to showcase engineering design, research, and innovation while engaging with NASA engineers and experts. As one of only a handful of universities selected to submit to the competition, our team at The Ohio State University developed a novel <strong>Autonomous Magnetized Cryo-Coupler with Active Alignment Control (AMCC-AAC)</strong>, focusing on fully autonomous docking and fluid transfer mechanisms critical for long-duration spaceflight. This proposal reflects both a technical and mission-oriented response to the vision laid out by NASA and underscores the importance of student-driven contributions in shaping the future of human space exploration.
 </p>
 
+<div class="gallery-box">
+  <div class="gallery gallery-columns-2">
+    <img src="/images/Concept_Stowed_Config_HuLC_Camera_SOLIDWORKS Viewport.jpg" loading="lazy" alt="Project">
+    <img src="/images/V3_Open_High_Contrast_Grey12_Close_Up_Camera_SOLIDWORKS Viewport.jpg" loading="lazy" alt="Project">
+    <img src="/images/V3_Open_Studio_Softbox_Camera_SOLIDWORKS Viewport.jpg" loading="lazy" alt="Project">
+    <img src="/images/Front Magnets Image.jpg" loading="lazy" alt="Project">
+  </div>
+  <em>Concept Renderings / <a href="https://maxheil5.github.io/about/">Max Heil</a></em>
+</div>
+
+<video width="100%" autoplay loop muted playsinline>
+  <source src="/images/Coupler_Assembly_V3_w_Tanks_Animation_4k_Test_Motion Study.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Technical Solution
 
 <p>
@@ -47,16 +62,7 @@ Click below to view the full HuLC proposal:
   <a href="/files/NASA_HuLC_Proposal_Watermarked.pdf" target="_blank">
     <i class="fa fa-file-pdf-o"></i> View Full Proposal (PDF)
   </a>
-</p> 
-
-<div class="gallery-box">
-  <div class="gallery gallery-columns-2">
-    <img src="/images/Concept_Stowed_Config_HuLC_Camera_SOLIDWORKS Viewport.jpg" loading="lazy" alt="Project">
-    <img src="/images/V3_Open_High_Contrast_Grey12_Close_Up_Camera_SOLIDWORKS Viewport.jpg" loading="lazy" alt="Project">
-    <img src="/images/V3_Open_Studio_Softbox_Camera_SOLIDWORKS Viewport.jpg" loading="lazy" alt="Project">
-  </div>
-  <em>Concept Renderings / <a href="https://maxheil5.github.io/about/">Max Heil</a></em>
-</div>
+</p>
 
 Development, on the other hand, is the engine that drives these digital experiences forward, translating design concepts into functional realities. With each line of code, developers breathe life into ideas, transforming visions into tangible products that enrich and empower users' lives. Agile methodologies empower development teams to adapt and evolve in response to changing needs, ensuring that products remain relevant and responsive in an ever-changing landscape.
 
