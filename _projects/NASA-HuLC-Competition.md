@@ -18,10 +18,10 @@ Click below to view the full HuLC proposal:
 
 <div class="gallery-box">
   <div class="gallery gallery-columns-2">
-    <img src="/images/project-example-1.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-2.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-3.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-4.jpg" loading="lazy" alt="Project">
+    <img src="/images/V3_Closed_Studio_Softbox_Close_Up_Camera_SOLIDWORKS Viewport.jpg" loading="lazy" alt="Project">
+    <img src="/images/V3_Open_High_Contrast_Grey12_Close_Up_Camera_SOLIDWORKS Viewport.jpg" loading="lazy" alt="Project">
+    <img src="/images/V3_Open_Studio_Softbox_Camera_SOLIDWORKS Viewport.jpg" loading="lazy" alt="Project">
+    <img src="/images/Test_Render_Camera_Default Camera.jpg" loading="lazy" alt="Project">
   </div>
   <em>Gallery / <a href="https://unsplash.com/">Unsplash</a></em>
 </div>
