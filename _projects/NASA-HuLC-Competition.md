@@ -19,27 +19,25 @@ In a unique opportunity, I was able to collaborate with 10 engineers from The Oh
   Participation in HuLC provides students with a platform to showcase engineering design, research, and innovation while engaging with NASA engineers and experts. As one of only a handful of universities selected to submit to the competition, our team at The Ohio State University developed a novel <strong>Autonomous Magnetized Cryo-Coupler with Active Alignment Control (AMCC-AAC)</strong>, focusing on fully autonomous docking and fluid transfer mechanisms critical for long-duration spaceflight. This proposal reflects both a technical and mission-oriented response to the vision laid out by NASA and underscores the importance of student-driven contributions in shaping the future of human space exploration.
 </p>
 
-## Our Technical Solution
+## Technical Solution
 
 <p>
-  To address the critical need for autonomous cryogenic refueling in orbit, our team developed a concept known as the <strong>Autonomous Magnetized Cryo-Coupler with Active Alignment Control (AMCC-AAC)</strong>. This system enables fully automated, precise docking and fluid transfer between cryogenic propellant depots and the Human Landing System (HLS), without requiring continuous human supervision. The system is composed of several integrated subsystems working in tandem to accomplish this goal.
+  Our proposed solution, the <strong>Autonomous Magnetized Cryo-Coupler with Active Alignment Control (AMCC-AAC)</strong>, is a fully automated cryogenic docking system designed for propellant transfer in orbit. The design integrates three core subsystems:
 </p>
 
-<p>
-  At the heart of our design is an <strong>active alignment control system</strong> guided by computer vision and sensor fusion. Using visual fiducials and an onboard camera, the system can detect and track the target interface in real time. This data is used to actuate a precision-controlled robotic end-effector, which dynamically aligns the coupler with its mating interface during final approach.
-</p>
+<ul>
+  <li><strong>Computer Vision-Guided Alignment:</strong> An onboard camera tracks ArUco markers on the receiving port, feeding real-time data into a control algorithm to actuate a 2-DOF linear stage for precise lateral and axial alignment.</li>
+  <li><strong>Electromagnetic Capture Ring:</strong> An array of controllable electromagnets generates a soft-capture field to gently pull and hold the target interface during final docking, mitigating misalignment.</li>
+  <li><strong>Cryogenic Refueling Interface:</strong> The coupler includes a spring-loaded cryo-seal and latch mechanism, enabling secure connection and fluid transfer under high thermal insulation constraints.</li>
+</ul>
 
-<p>
-  To aid with the mechanical docking process, we introduced a novel <strong>magnetized capture ring</strong> that gently pulls the mating coupler into final alignment during the last few centimeters of approach. This subcomponent uses electromagnets to create a soft-capture interface that helps absorb small misalignments and ensures a tight mechanical seal—crucial for safe and efficient cryogenic fluid transfer.
-</p>
-
-<p>
-  The combined use of passive visual tracking, active electromechanical control, and magnetic assistance results in a robust system that can adapt to positional variance and tolerances common in space operations. The AMCC-AAC enables repeated, hands-off fluid transfers across multiple mission phases, including depot refueling, tanker-to-lander transfers, and pre-surface descent staging, all while minimizing system complexity and the risk of boil-off.
-</p>
-
-<p>
-  This design positions itself as a scalable component of future Artemis mission architectures and paves the way for sustainable, repeatable human exploration of the lunar surface and beyond.
-</p>
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/Orthographic View Labeled.png" loading="lazy" alt="Labeled Cryo-Coupler Design">
+    <img src="/images/Section View Labeled.png" loading="lazy" alt="Labeled Cryo-Coupler Design">
+  </div>
+  <em>Labeled schematic of the AMCC-AAC system.</em>
+</div>
 
 ## Project Proposal
 
