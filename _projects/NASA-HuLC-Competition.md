@@ -6,6 +6,15 @@ image: '/images/NASA_HuLC_Concept.jpg'
 ---
 In a unique opportunity, I was able to collaborate with 10 engineers from The Ohio State University to create an automated cryogenic refueling system for NASA's Human Lander System (HLS). Our design consists of a computer vision (CV) actuator alignment system that it used to autmatically connect two couplers for refueling on-orbit. For close proximity alignment, we developed an electromagnetic connection subcomponent that assists the AI alignment in the final compression phases. Through these methods, we reduce and possibly eliminate the need for constant human interaction when performing refueling missions in space. This will ultimately increase the likelihood for successful propellant transfer and help achieve NASA's efforts to conduct long duration missions to the Moon. This project was recently submitted as a proposal to NASA's Human Lander Challenge (HuLC). To learn more, read about the current status of the project below! This page will be updated with new information, when available.
 
+## Quick Overview
+Here is a quad-chart that gives the key information about this project:
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/Quad Chart Image.jpg" loading="lazy" alt="Quad-Chart">
+  </div>
+  <em>Quad-Chart of Project Information</em>
+</div>
+
 ## Background
 <p>
   The <strong>Human Lander Challenge (HuLC)</strong> is a NASA-sponsored competition hosted by the National Institute of Aerospace (NIA) that invites university students to develop innovative solutions to some of NASA’s most pressing technology challenges for future lunar missions. In support of the <a href="https://www.nasa.gov/artemis" target="_blank">Artemis Program</a>, HuLC challenges multidisciplinary student teams to address a critical need for the <strong>Human Landing System (HLS)</strong>: sustainable, repeatable cryogenic propellant transfer in space. As future Artemis missions expand in scope and duration, the ability to reliably refuel lunar landers in orbit becomes essential for enabling long-term lunar exploration and eventual crewed missions to Mars.
