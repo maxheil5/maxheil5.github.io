@@ -6,6 +6,18 @@ image: '/images/NASA_HuLC_Concept.jpg'
 ---
 In a unique opportunity, I was able to collaborate with 12 engineers from Ohio State to create an automated cryogenic refueling system for NASA's Human Lander System (HLS). Our design consists of a computer vision (CV) driven actuator alignment system that it used to autmatically connect two couplers for refueling on-orbit. For close proximity alignment, we developed an electromagnetic connection subcomponent that assists the AI alignment in the final compression phases. Through these methods, we reduce and possibly eliminate the need for constant human interaction when performing refueling missions in space. This will ultimately increase the likelihood for successful propellant transfer and help achieve NASA's efforts to conduct long duration missions to the Moon. To learn more, read about the current status of the project below! This page will be updated with new information, when available.
 
+## Project Proposal
+
+Click below to view the full HuLC proposal:
+
+<p>
+  <a href="/files/NASA_HuLC_Proposal_Watermarked.pdf" target="_blank">
+    <i class="fa fa-file-pdf-o"></i> View Full Proposal (PDF)
+  </a>
+</p>
+
+<iframe src="/files/NASA_HuLC_Proposal_Watermarked.pdf" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+
 <div class="gallery-box">
   <div class="gallery gallery-columns-2">
     <img src="/images/project-example-1.jpg" loading="lazy" alt="Project">
