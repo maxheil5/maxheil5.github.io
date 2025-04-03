@@ -4,6 +4,13 @@ title: About <em>Me</em>
 permalink: /about/
 image: '/images/100.jpg'
 ---
+Download my resume here:
+<p>
+  <a href="/files/Max_Heil_Resume__April25.pdf" target="_blank">
+    <i class="fa fa-file-pdf-o"></i> Download Resume - April 2025 (PDF)
+  </a>
+</p>
+
 Hello there! Welcome to my corner of the digital world. My name is Kevin, and I am a passionate Product Designer with a flair for crafting exceptional user experiences. I believe that design is not just about aesthetics but a powerful tool to make a positive impact on people’s lives. Beyond just aesthetics, I am deeply committed to designing for impact. Whether it’s improving daily routines, enhancing productivity, or fostering connections.
 
 > Design is not just what it looks like and feels like. Design is how it works.
