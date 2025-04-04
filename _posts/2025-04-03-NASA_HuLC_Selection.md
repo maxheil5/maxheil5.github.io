@@ -25,9 +25,8 @@ Our team decided to pursue a solution in the automated cryo-couplers category. U
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/Test_Render_Camera_Default Camera.png" loading="lazy" alt="Render">
-    <img src="/images/Orthographic View Labeled.png" loading="lazy" alt="Render">
   </div>
-  <em>Preliminary Renderings of AMCC-AAC</em>
+  <em>Preliminary Rendering of AMCC-AAC</em>
 </div>
 
 I have dedicated many long hours to this project and to finally see its realization is amazing!
