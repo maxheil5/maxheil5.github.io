@@ -2,8 +2,7 @@
 title: Search & Reacquisition of Resident Space Object
 date: 2024-08-28 08:01:35 +0300
 subtitle: Space Domain Awareness
-image: '/images/project-4.jpg'
-video_embed: https://www.youtube.com/embed/phiMxtqlFIY
+image: '/images/SRA_Cover_Image_Horizontal_V2.png'
 ---
 In the dynamic world of design and development, creativity and innovation intertwine to shape the digital landscape. Design, with its essence of simplicity and elegance, serves as the foundation upon which every digital experience is built. From the sleek lines of a minimalist interface to the vibrant colors of a captivating brand identity, design captivates and engages users, guiding them through a journey of discovery and interaction.
 
