@@ -82,7 +82,7 @@ testimonial-items:
     designation : Advanced Manufacturing Engineering Intern, May 2024 - Jan 2025
     content : Developed automated manufacturing simulations, optimized metal 3D printing processes, validated RFID tracking systems, and contributed to a $3M automation initiative.
 
-  - name: SOAR Laboaratory
+  - name: SOAR Laboratory
     image: "/images/SOAR_Logo.png"
     designation : Controls Undergraduate Researcher, Sept 2023 - Present
     content : Designed data-driven UAV control algorithms, investigated the effects of dither quantization in constrained environments, and conduct drone flight tests.
