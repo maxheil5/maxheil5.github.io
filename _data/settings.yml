@@ -60,22 +60,22 @@ social:
 # Projects Settings
 projects:
   enable: true
-  projects_title: Product Design <em>Showcase</em> # You can add an 'em' element to highlight text.
+  projects_title: Project <em>Showcase</em> # You can add an 'em' element to highlight text.
   projects_description: I present my top-tier projects, meticulously crafted with unwavering passion, simplicity, boundless creativity, and unparalleled attention to detail.
 
 
 #-------------------------------
-# Testimonials Settings
+# Career Settings (called testimonials in all settings)
 testimonials:
   enable: true
-  testimonials_title: Trusted by <em>Professionals</em> # You can add an 'em' element to highlight text.
-  testimonials_description: Join our community of creative professionals where you can develop your talents and reach new heights in design.
+  testimonials_title: My Career <em>Timeline</em> # You can add an 'em' element to highlight text.
+  testimonials_description: Learn about my journey as an aerospace engineer from college and beyond.
 
 testimonial-items:
-  - name: Amelia Jones
-    image: "/images/client-1.jpg"
-    designation : Network Engineer
-    content : This product designer is an expert in his field. His ability to understand the needs of clients and create designs that satisfy them is astounding.
+  - name: The Ohio State University
+    image: "/images/Ohio_State_Big_O.jpg"
+    designation : August 2021 - May 2025
+    content : Graduated from Ohio State in May 2025 with a Bachelor of Science in Aerospace Engineering with Honors Research Distinction
 
   - name: Ethan Robinson
     image: "/images/client-2.jpg"
