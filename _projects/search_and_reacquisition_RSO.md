@@ -1,6 +1,6 @@
 ---
 title: Search & Reacquisition of Resident Space Object
-date: 2024-28-08 08:01:35 +0300
+date: 2024-08-28 08:01:35 +0300
 subtitle: Space Domain Awareness
 image: '/images/project-4.jpg'
 video_embed: https://www.youtube.com/embed/phiMxtqlFIY
