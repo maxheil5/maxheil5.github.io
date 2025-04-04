@@ -80,12 +80,17 @@ testimonial-items:
   - name: Collins Aerospace
     image: "/images/Collins-Aerospace-Logo_Circular.png"
     designation : Advanced Manufacturing Engineering Intern, May 2024 - Jan 2025
-    content : Developed automated manufacturing simulations, optimized metal 3D printing processes, validated RFID tracking systems, and contributed to a $3M automation initiative
+    content : Developed automated manufacturing simulations, optimized metal 3D printing processes, validated RFID tracking systems, and contributed to a $3M automation initiative.
 
-  - name: Matthew Garcia
-    image: "/images/client-3.jpg"
-    designation : IT Support Specialist
-    content : I cannot recommend this designer highly enough. Their designs are not only visually stunning but also highly functional, making them perfect for our needs.
+  - name: SOAR Laboaratory
+    image: "/images/SOAR_Logo.png"
+    designation : Controls Undergraduate Researcher, Sept 2023 - Present
+    content : Designed data-driven UAV control algorithms, investigated the effects of dither quantization in constrained environments, and conduct drone flight tests.
+
+  - name: LADDCS Laboratory
+    image: "/images/Ohio_State_Big_O.jpg"
+    designation : Space Systems Graduate Researcher, June 2024 - Present
+    content : Analyzed and categorized unknown spacecraft maneuvers using probability & game theory, and implemented Adaptive Monte Carlo techniques for accurate manuever detection.
 
 
 #-------------------------------
