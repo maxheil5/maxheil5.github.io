@@ -113,7 +113,7 @@ faq_items:
     description: My specializations includes space systems, quadrotors, orbital mechanics, and propulsion.
 
   - title: Can you provide examples of your work (i.e. a portfolio)?
-    description: Yes! On this website, navigate to the "Projects" tab. There, you will see the various works I collaborate on. Included are both team and individual initiatives with my personal contributions highlighted in each.
+    description: Yes! On this website, navigate to the <q>Projects<q> tab. There, you will see the various works I collaborate on. Included are both team and individual initiatives with my personal contributions highlighted in each.
 
   - title: What is your experience with various softwares, coding, or platforms?
     description: I have strong technical proficiency across engineering software, programming languages, and simulation platforms. Software: MATLAB, Simulink, SolidWorks, Ansys Fluid/STK, LabVIEW, XFLR5, Altium, Microsoft Office, Visual Components; Coding: Python, MATLAB, LaTeX, ROS
