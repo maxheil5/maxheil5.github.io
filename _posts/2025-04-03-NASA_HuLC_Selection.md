@@ -37,4 +37,4 @@ I have dedicated many long hours to this project and to finally see its realizat
 
 The race is on to build a functional partial prototype of our design before the competition. Our team is working hard to finish the paper and submit in late May. Check back for updates on the status of the project!
 
-You can learn more about this project and my leadership role here: <a href="https://maxheil5.github.io/project/nasa-hulc-competition" target="_blank">OSU HuLC Team Project/a>
+You can learn more about this project and my leadership role here: <a href="https://maxheil5.github.io/project/nasa-hulc-competition" target="_blank">OSU HuLC Team Project
