@@ -2,7 +2,7 @@
 layout: post
 title: 2025 OSU NASA HuLC Team Selected as Finalist!
 date: 2025-04-03 14:00:00 +0400
-image: '/images/10.jpg'
+image: '/images/HuLC_ver1.png'
 tags: [NASA, Space]
 ---
 I am excited to share that my 2025 Ohio State University NASA Human Lander Challenge (HuLC) team has been selected as a finalist to compete for a prize purse of $18,000 in Huntsville, AL this summer. Our project entry, titled “Autonomous Magnetized Cryo-Couplers with Active Alignment Control for Propellant Transfer (AMCC-AAC),” was selected as one of twelve to compete in the finals. We have recieved a stipend of approximately $9,000 to facilitate our participation. NASA's HuLC competition is an initiative supporting NASA's Exploration Systems Development Mission Directorate's (ESDMD's) effors to explore innovative solutions for a variety of known HLS challenge areas. Through this competition, college students become important partners in NASA’s advancement of HLS technologies, concepts, and approaches. Improvements in these technology areas have the potential to revolutionize NASA’s approach to space exploration, and contributions from the academic community are a valuable part of the journey to discovery. We are thrilled to be attending the forum and can't wait to show what's next for our team!!
