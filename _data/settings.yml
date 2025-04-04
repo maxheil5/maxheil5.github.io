@@ -48,7 +48,7 @@ sidebar:
 
 # Social Links
 social:
-- {icon: "fa-brands fa-linkedin", name: "Linkedin", link: "www.linkedin.com/in/max-heil"}
+- {icon: "fa-brands fa-linkedin", name: "Linkedin", link: "https://www.linkedin.com/in/max-heil/"}
 - {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/maxheil5"}
 - {icon: "fa-brands fa-youtube", name: "Vimeo", link: "https://www.youtube.com/@MaxHeil5"}
 
