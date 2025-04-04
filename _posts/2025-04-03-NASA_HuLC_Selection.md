@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Understanding Player Motivation and Engagement
-date: 2024-04-05 15:01:35 +0300
+title: 2025 OSU NASA HuLC Team Selected as Finalist!
+date: 2025-04-03 14:00:00 +0400
 image: '/images/10.jpg'
 tags: [Coding]
 ---
