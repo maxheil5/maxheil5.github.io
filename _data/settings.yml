@@ -131,7 +131,7 @@ faq_items:
 #-------------------------------
 # Gallery Settings
 gallery:
-  enable: false
+  enable: true
   gallery_title: A Visual Journey Through <em>My World</em> # You can add an 'em' element to highlight text.
   gallery_description: Step into my visual world where each image tells a story. From the bustling streets of urban landscapes to the serene beauty of nature, explore the moments that inspire and define my journey.
   gallery_caption:
