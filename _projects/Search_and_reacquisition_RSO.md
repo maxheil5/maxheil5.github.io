@@ -4,7 +4,9 @@ date: 2024-08-28 08:01:35 +0300
 subtitle: Space Domain Awareness
 image: '/images/SRA_Cover_Image_Horizontal_V2.png'
 ---
-In the dynamic world of design and development, creativity and innovation intertwine to shape the digital landscape. Design, with its essence of simplicity and elegance, serves as the foundation upon which every digital experience is built. From the sleek lines of a minimalist interface to the vibrant colors of a captivating brand identity, design captivates and engages users, guiding them through a journey of discovery and interaction.
+As space becomes increasingly congested, maintaining custody of objects in orbit—such as satellites, rocket bodies, and debris—is critical for national security and safe space operations. Our research focuses on the search and reacquisition problem, which aims to accurately predict and relocate space objects after they’ve been initially observed.
+
+By combining artificial intelligence, probabilistic orbit determination, and advanced filtering methods, we’ve developed a multi-stage framework capable of identifying rocket launches, estimating initial orbits from ground-based radar, and tracking those objects over time despite sensor noise and uncertainty. This system leverages Adaptive Monte Carlo (AMC) simulations and Kalman Filters to propagate orbital uncertainty and validate reacquisition on future passes. The result: a scalable approach to Space Domain Awareness (SDA) that improves the reliability of space tracking and decision-making.
 
 <div class="gallery-box">
   <div class="gallery gallery-columns-2">
