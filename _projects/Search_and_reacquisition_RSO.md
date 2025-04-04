@@ -10,12 +10,9 @@ By combining artificial intelligence, probabilistic orbit determination, and adv
 
 <div class="gallery-box">
   <div class="gallery gallery-columns-2">
-    <img src="/images/project-example-1.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-2.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-3.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-4.jpg" loading="lazy" alt="Project">
+    <img src="/images/AMC_prop.jpg" loading="lazy" alt="Project">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/">Unsplash</a></em>
+  <em>AMC Propagation</em>
 </div>
 
 Development, on the other hand, is the engine that drives these digital experiences forward, translating design concepts into functional realities. With each line of code, developers breathe life into ideas, transforming visions into tangible products that enrich and empower users' lives. Agile methodologies empower development teams to adapt and evolve in response to changing needs, ensuring that products remain relevant and responsive in an ever-changing landscape.
