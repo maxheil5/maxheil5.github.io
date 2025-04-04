@@ -74,13 +74,13 @@ testimonials:
 testimonial-items:
   - name: The Ohio State University
     image: "/images/Ohio_State_Big_O.jpg"
-    designation : August 2021 - May 2025
+    designation : Undergraduate, August 2021 - May 2025
     content : Graduated from Ohio State in May 2025 with a Bachelor of Science in Aerospace Engineering with Honors Research Distinction
 
-  - name: Ethan Robinson
-    image: "/images/client-2.jpg"
-    designation : Blockchain Developer
-    content : Kevin is a true visionary in the field of product design. His ability to think outside the box and push boundaries is what sets him apart from the rest.
+  - name: Collins Aerospace
+    image: "/images/Collins-Aerospace-Logo_Circular.png"
+    designation : Advanced Manufacturing Engineering Intern, May 2024 - Jan 2025
+    content : Developed automated manufacturing simulations, optimized metal 3D printing processes, validated RFID tracking systems, and contributed to a $3M automation initiative
 
   - name: Matthew Garcia
     image: "/images/client-3.jpg"
