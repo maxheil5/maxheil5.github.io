@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Max Heil
-logo: "/images/MH_LogoV1_Dark_Text.png" # You can add own logo. For example '/images/logo.png'.
+logo: "images/Aerospace Engineer.svg" # You can add own logo. For example '/images/logo.png'.
 logo_dark: "/images/MH_LogoV1_Light_Text.png"
 description: Personal website and portfolio for Max Heil
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
