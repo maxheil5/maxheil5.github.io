@@ -17,8 +17,8 @@ By combining artificial intelligence, probabilistic orbit determination, and adv
 
 See the presentation we gave at the AIAA Region III Student Conference in Cincinnati, OH on April 5, 2025:
 <p>
-  <a href="/files/NASA_HuLC_Proposal_Watermarked.pdf" target="_blank">
-    <i class="fa fa-file-pdf-o"></i> View Full Proposal (PDF)
+  <a href="/files/AIAA Presentation V2.pptx" target="_blank">
+    <i class="fa fa-file-pdf-o"></i> AIAA Presentation (.ppt)
   </a>
 </p>
 
