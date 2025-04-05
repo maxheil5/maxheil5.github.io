@@ -22,11 +22,24 @@ See the presentation we gave at the AIAA Region III Student Conference in Cincin
   </a>
 </p>
 
-Development, on the other hand, is the engine that drives these digital experiences forward, translating design concepts into functional realities. With each line of code, developers breathe life into ideas, transforming visions into tangible products that enrich and empower users' lives. Agile methodologies empower development teams to adapt and evolve in response to changing needs, ensuring that products remain relevant and responsive in an ever-changing landscape.
+## Methods
 
-## Branding and recognition
+This page provides an in‐depth overview of the framework for the search and reacquisition of resident space objects. It highlights the growing challenges in Low Earth Orbit—such as sensor noise, limited detection ranges, and the inherent uncertainties in orbit tracking—that complicate the task of reacquiring satellites or rocket bodies after their initial detection.
 
-At the heart of every successful design and development endeavor lies the user experience. Understanding the needs, desires, and behaviors of the end user is paramount, guiding every decision and iteration throughout the design and development process. User research and testing provide invaluable insights, illuminating the path forward and ensuring that products resonate with their intended audience.
+Here are a few more specifcs about the framework:
+
+• An AI-driven approach for launch detection and rocket classification, which uses machine learning models to automatically identify imminent launches and categorize rocket bodies.
+
+• Initial Orbit Determination (IOD) using Gauss’s angles-only method to convert limited radar observations into a first estimate of the orbital elements.
+
+• Refinement of the initial orbit through Gaussian Least Squares Differential Correction (GLSDC) and Adaptive Monte Carlo (AMC) simulations, which work together to minimize errors and propagate the orbit forward while accounting for uncertainties.
+
+• The application of a discrete-time Kalman Filter in a second observation pass to further refine the orbital state and confirm the reacquisition of the object.
+
+## Results
+
+To validate this kill-chain system, we use the ISS in orbit around Earth as a test case. This is a well known orbit, thus it is easy to compare true results with our experimental results. Each stage of the kill-chain is tested individually and we conclude with a binary yes/no if the object was reacquired on a second pass.
+
 
 <div class="gallery-box">
   <div class="gallery">
