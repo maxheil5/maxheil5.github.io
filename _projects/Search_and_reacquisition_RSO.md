@@ -15,6 +15,13 @@ By combining artificial intelligence, probabilistic orbit determination, and adv
   <em>AMC Propagation</em>
 </div>
 
+See the presentation we gave at the AIAA Region III Student Conference in Cincinnati, OH on April 5, 2025:
+<p>
+  <a href="/files/NASA_HuLC_Proposal_Watermarked.pdf" target="_blank">
+    <i class="fa fa-file-pdf-o"></i> View Full Proposal (PDF)
+  </a>
+</p>
+
 Development, on the other hand, is the engine that drives these digital experiences forward, translating design concepts into functional realities. With each line of code, developers breathe life into ideas, transforming visions into tangible products that enrich and empower users' lives. Agile methodologies empower development teams to adapt and evolve in response to changing needs, ensuring that products remain relevant and responsive in an ever-changing landscape.
 
 ## Branding and recognition
