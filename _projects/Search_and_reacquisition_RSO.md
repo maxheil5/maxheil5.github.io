@@ -45,9 +45,9 @@ In this phase we take a series of initial measurements and select 3 to perform G
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-example-5.jpg" loading="lazy" alt="Project">
+    <img src="/images/IOD.png" loading="lazy" alt="Project">
   </div>
-  <em>Photo by <a href="https://unsplash.com/@rpnickson">Roberto Nickson</a> on <a href="https://unsplash.com/">Unsplash</a></em>
+  <em>Measurements from a ground-based radar network</em>
 </div>
 
 ## Benefits of creating a mobile app
