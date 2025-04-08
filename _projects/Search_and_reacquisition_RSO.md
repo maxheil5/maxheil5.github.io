@@ -41,8 +41,7 @@ Here are a few more specifcs about the framework:
 To validate this kill-chain system, we use the ISS in orbit around Earth as a test case. This is a well known orbit, thus it is easy to compare true results with our experimental results. Each stage of the kill-chain is tested individually and we conclude with a binary yes/no if the object was reacquired on a second pass.
 
 ### Phase 1 - <em>IOD</em>:
-In this phase
-
+In this phase we take a series of initial measurements and select 3 to perform Gauss Angles-Only IOD.
 
 <div class="gallery-box">
   <div class="gallery">
