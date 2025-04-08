@@ -81,6 +81,6 @@ Click below to view the full HuLC proposal:
 Development, on the other hand, is the engine that drives these digital experiences forward, translating design concepts into functional realities. With each line of code, developers breathe life into ideas, transforming visions into tangible products that enrich and empower users' lives. Agile methodologies empower development teams to adapt and evolve in response to changing needs, ensuring that products remain relevant and responsive in an ever-changing landscape.
 
 ## Updates
-April 3, 2025: OSU HuLC Team is accepted into the competition as a finalist to compete in June! We will be headed to NASA Marshall Space Flight Center (MSFC) to present our work.
+<em>April 3, 2025</em>: OSU HuLC Team is accepted into the competition as a finalist to compete in June! We will be headed to NASA Marshall Space Flight Center (MSFC) to present our work.
 
 
