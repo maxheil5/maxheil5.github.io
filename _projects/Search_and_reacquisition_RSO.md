@@ -50,6 +50,8 @@ In this phase we take a series of initial measurements and select 3 to perform G
   <em>Measurements from a ground-based radar network</em>
 </div>
 
+Using a root-solving method to estimate the coefficients of a few equations 
+
 ## Benefits of creating a mobile app
 
 The evolution of design and development is a continuous journey, marked by exploration, experimentation, and growth. Emerging technologies, tools, and trends open new possibilities, empowering designers and developers to push the boundaries of what's possible. Embracing change and embracing a mindset of lifelong learning is essential, ensuring that professionals stay ahead of the curve in a rapidly evolving industry.
