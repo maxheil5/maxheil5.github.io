@@ -10,7 +10,7 @@ By combining artificial intelligence, probabilistic orbit determination, and adv
 
 <div class="gallery-box">
   <div class="gallery gallery-columns-2">
-    <img src="/images/AMC_prop.jpg" loading="lazy" alt="Project" style="width: 300px; height: auto;">
+    <img src="/images/AMC_prop.jpg" loading="lazy" alt="Project">
   </div>
   <em>AMC Propagation</em>
 </div>
