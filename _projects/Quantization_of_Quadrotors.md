@@ -1,8 +1,8 @@
 ---
-title: Immersive Gaming Interface
-date: 2024-05-02 08:01:35 +0300
-subtitle: Product Design
-image: '/images/project-6.jpg'
+title: Effect of Quantization on Data-Driven Model Predictive Control of Quadcopters
+date: 2024-06-05 08:01:35 +0300
+subtitle: Control Systems
+image: '/images/modalai-inc-drone-drone-only-px4-autonomy-developer-kit-43777520206128_2048x2048.jpg'
 ---
 Development, on the other hand, is the engine that drives these digital experiences forward, translating design concepts into functional realities. With each line of code, developers breathe life into ideas, transforming visions into tangible products that enrich and empower users' lives. Agile methodologies empower development teams to adapt and evolve in response to changing needs, ensuring that products remain relevant and responsive in an ever-changing landscape.
 
