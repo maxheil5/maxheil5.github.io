@@ -158,11 +158,18 @@ To build a Koopman model from data, we use <strong>Extended Dynamic Mode Decompo
 
 Matrices <math><mi>A</mi></math> and <math><mi>B</mi></math> are learned from data and represent a linear model in the lifted space defined by <math><mi>&#x03D5;</mi><mo>(</mo><mi>x</mi><mo>)</mo></math>.
 
+## Methods
+The methodology is divided into three phases: numerical simulations, Gazebo-based digital twin testing, and hardware-in-the-loop (HITL) flight testing. Each phase builds upon the previous one to validate both theoretical and experimental performance under quantized data conditions.
 
+### Numerical Simulations
+The first stage implements the full control and learning pipeline in MATLAB, allowing for controlled experimentation and detailed analysis.
 
-## Branding and recognition
+<ul>
+  <li>**Trajectory Generation:** Random quadrotor trajectories are generated using a nonlinear PID-based simulator. These trajectories include position, velocity,           orientation, and angular velocity states, as well as corresponding control inputs.</li>
+  li>**System Identification:** </li>
+</ul>
 
-At the heart of every successful design and development endeavor lies the user experience. Understanding the needs, desires, and behaviors of the end user is paramount, guiding every decision and iteration throughout the design and development process. User research and testing provide invaluable insights, illuminating the path forward and ensuring that products resonate with their intended audience.
+## Results
 
 <div class="gallery-box">
   <div class="gallery">
@@ -170,9 +177,3 @@ At the heart of every successful design and development endeavor lies the user e
   </div>
   <em>Photo by <a href="https://unsplash.com/@rpnickson">Roberto Nickson</a> on <a href="https://unsplash.com/">Unsplash</a></em>
 </div>
-
-## Benefits of creating a mobile app
-
-The evolution of design and development is a continuous journey, marked by exploration, experimentation, and growth. Emerging technologies, tools, and trends open new possibilities, empowering designers and developers to push the boundaries of what's possible. Embracing change and embracing a mindset of lifelong learning is essential, ensuring that professionals stay ahead of the curve in a rapidly evolving industry.
-
-Ultimately, the fusion of design and development is more than just a collaboration; it’s a symbiotic relationship that fuels progress and innovation. By working in harmony, designers and developers can overcome challenges, seize opportunities, and create solutions that truly make a difference. As we look to the future, the potential for what can be achieved through this partnership is boundless, promising a world where technology and creativity coexist to improve the human experience.
