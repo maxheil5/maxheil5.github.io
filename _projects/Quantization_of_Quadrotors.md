@@ -35,6 +35,129 @@ A <strong>uniform quantizer</strong> with resolution <math><mi>&#x03B5;</mi></ma
   </mrow>
 </math>
 
+The resolution <math><mi>&#x03B5;</mi></math> is based on bit-depth <math><mi>b</mi></math> and the signal range:
+
+<math display="block">
+  <mrow>
+    <mi>&#x03B5;</mi><mo>=</mo>
+    <mfrac>
+      <mrow>
+        <msub><mi>x</mi><mi>max</mi></msub>
+        <mo>&#x2212;</mo>
+        <msub><mi>x</mi><mi>min</mi></msub>
+      </mrow>
+      <msup><mn>2</mn><mi>b</mi></msup>
+    </mfrac>
+  </mrow>
+</math>
+
+In <strong>dither quantization</strong>, noise <math><mi>w</mi></math> is added before quantizing and subtracted after:
+
+<math display="block">
+  <mrow>
+    <mover>
+      <mi>x</mi>
+      <mo>&#x007E;</mo>
+    </mover>
+    <mo>=</mo>
+    <mi>Q</mi><mo>(</mo><mi>x</mi><mo>+</mo><mi>w</mi><mo>)</mo><mo>&#x2212;</mo><mi>w</mi>
+  </mrow>
+</math>
+
+This technique helps ensure that the quantization error is independent from the signal, which improves learning and control.
+
+An example of quantization in image signal processing can be seen below. The image on the left shows the original image of a cat with full 24-bit RGB color array. A quantized version, down to 16 colors, is shown in the middle. And finally, a dither quantized version of the same image can be seen on the right.
+
+<div class="gallery-box">
+  <div class="gallery gallery-columns-3">
+    <img src="/images/cat_example_original.png" loading="lazy" alt="Project">
+    <img src="/images/cat_example_quantized.png" loading="lazy" alt="Project">
+    <img src="/images/cat_example_unquantized.png" loading="lazy" alt="Project">
+  </div>
+  <em>Left: Original Image / Middle: 16 Color Quantized / Right: Dither Quantized Version / Image Credit: <a href="https://en.wikipedia.org/wiki/Color_quantization">Wikepedia</a></em>
+</div>
+
+While the quantized version of the image does degrade the RGB signals, you can still understand the image and background. When dithering, the error becomes independent of the true signal, and the colors are smoothed and banding is visibly reduced.
+
+This example motivates the idea behind using this architecture in drone controls.
+
+## Koopman-Operator Theory
+The <strong>Koopman operator</strong> lets us represent nonlinear systems as linear ones in a lifted feature space. For a system
+
+<math display="block">
+  <mrow>
+    <msub><mi>x</mi><mrow><mi>t</mi><mo>+</mo><mn>1</mn></mrow></msub>
+    <mo>=</mo>
+    <mi>f</mi><mo>(</mo><msub><mi>x</mi><mi>t</mi></msub><mo>)</mo>
+  </mrow>
+</math>
+
+We define observables <math><mi>&#x03D5;</mi><mo>(</mo><mi>x</mi><mo>)</mo></math>, and apply the Koopman operator <math><mi>&#x1D4AA;</mi></math> as:
+
+<math display="block">
+  <mrow>
+    <mi>&#x1D4AA;</mi><mo>&#x2061;</mo><mi>&#x03D5;</mi><mo>(</mo><mi>x</mi><mo>)</mo>
+    <mo>=</mo>
+    <mi>&#x03D5;</mi><mo>(</mo><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>)</mo>
+  </mrow>
+</math>
+
+This transforms nonlinear dynamics into linear evolution in a higher-dimensional space.
+
+## Model Predictive Control (MPC)
+<strong>Model Predictive Control</strong> (MPC) computes optimal control actions by solving a constrained optimization problem over a future horizon. The controller solves:
+
+<math display="block">
+  <mrow>
+    <mo>minimize</mo>
+    <munder>
+      <mrow>
+        <mo>{</mo><msub><mi>u</mi><mi>t</mi></msub><mo>}</mo>
+      </mrow>
+      <mrow></mrow>
+    </munder>
+    <mo>&#x2211;</mo><msub><mi>t</mi><mi>=0</mi></msub><msup><mi>T</mi><mi>h</mi></msup>
+    <mo>(</mo>
+    <msup>
+      <mrow>
+        <mo>&#x2225;</mo><mi>x</mi><mo>&#x2212;</mo><msub><mi>x</mi><mi>ref</mi></msub><mo>&#x2225;</mo>
+      </mrow>
+      <mn>2</mn>
+    </msup>
+    <mo>+</mo>
+    <msup>
+      <mo>&#x2225;</mo><mi>u</mi><mo>&#x2225;</mo>
+      <mn>2</mn>
+    </msup>
+    <mo>)</mo>
+  </mrow>
+</math>
+
+subject to:
+
+<math display="block">
+  <mrow>
+    <msub><mi>x</mi><mrow><mi>t</mi><mo>+</mo><mn>1</mn></mrow></msub>
+    <mo>=</mo>
+    <mi>f</mi><mo>(</mo><msub><mi>x</mi><mi>t</mi></msub><mo>,</mo><msub><mi>u</mi><mi>t</mi></msub><mo>)</mo>
+  </mrow>
+</math>
+
+This formulation allows real-time optimization of control inputs under constraints.
+
+### Extended Dynamic Mode Decomposition (EDMD)
+To build a Koopman model from data, we use <strong>Extended Dynamic Mode Decomposition with Control (EDMDc)</strong>. Given snapshots of data, we solve:
+
+<math display="block">
+  <mrow>
+    <mi>&#x03D5;</mi><mo>(</mo><msub><mi>x</mi><mrow><mi>t</mi><mo>+</mo><mn>1</mn></mrow></msub><mo>)</mo>
+    <mo>&#x2248;</mo>
+    <mi>A</mi><mi>&#x03D5;</mi><mo>(</mo><msub><mi>x</mi><mi>t</mi></msub><mo>)</mo><mo>+</mo><mi>B</mi><msub><mi>u</mi><mi>t</mi></msub>
+  </mrow>
+</math>
+
+Matrices <math><mi>A</mi></math> and <math><mi>B</mi></math> are learned from data and represent a linear model in the lifted space defined by <math><mi>&#x03D5;</mi><mo>(</mo><mi>x</mi><mo>)</mo></math>.
+
 
 
 ## Branding and recognition
