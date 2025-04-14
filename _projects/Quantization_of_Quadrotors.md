@@ -165,8 +165,8 @@ The methodology is divided into three phases: numerical simulations, Gazebo-base
 The first stage implements the full control and learning pipeline in MATLAB, allowing for controlled experimentation and detailed analysis.
 
 <ul>
-  <li>**Trajectory Generation:** Random quadrotor trajectories are generated using a nonlinear PID-based simulator. These trajectories include position, velocity,           orientation, and angular velocity states, as well as corresponding control inputs.</li>
-  li>**System Identification:** </li>
+  <li>Trajectory Generation: Random quadrotor trajectories are generated using a nonlinear PID-based simulator. These trajectories include position, velocity,           orientation, and angular velocity states, as well as corresponding control inputs.</li>
+  <li>System Identification: </li>
 </ul>
 
 ## Results
