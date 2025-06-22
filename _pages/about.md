@@ -2,7 +2,7 @@
 layout: page
 title: About <em>Me</em>
 permalink: /about/
-image: '/images/100.jpg'
+image: '/images/heil.115_headshot_Sept2024.jpg'
 ---
 Download my resume here:
 <p>
