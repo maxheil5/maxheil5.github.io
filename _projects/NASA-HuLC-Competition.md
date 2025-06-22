@@ -87,7 +87,7 @@ Click below to view the final paper, presentation, and poster:
 
 <p>
   <a href="/files/NASA HuLC OSU 2025 Final Presentation PDF.pdf" target="_blank">
-    <i class="fa fa-file-pdf-o"></i> Final Presentation (PDF) - Please reach out if you would like the full slides. The fonts and text don't show well in the PDF.
+    <i class="fa fa-file-pdf-o"></i> Final Presentation (PDF)
   </a>
 </p>
 
@@ -97,7 +97,7 @@ Click below to view the final paper, presentation, and poster:
   </a>
 </p>
 
-Development, on the other hand, is the engine that drives these digital experiences forward, translating design concepts into functional realities. With each line of code, developers breathe life into ideas, transforming visions into tangible products that enrich and empower users' lives. Agile methodologies empower development teams to adapt and evolve in response to changing needs, ensuring that products remain relevant and responsive in an ever-changing landscape.
+Please reach out if you would like the full slides. The fonts and text don't show well in the PDF!
 
 ## Updates
 <em>April 3, 2025</em>: OSU HuLC Team is accepted into the competition as a finalist to compete in June! We will be headed to NASA Marshall Space Flight Center (MSFC) to present our work.
