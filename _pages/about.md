@@ -4,10 +4,10 @@ title: About <em>Me</em>
 permalink: /about/
 image: '/images/heil.115_headshot_Sept2024_cropped.png'
 ---
-Download my resume here:
+Download my CV here:
 <p>
-  <a href="/files/Max_Heil_Resume__April25.pdf" target="_blank">
-    <i class="fa fa-file-pdf-o"></i> Download Resume - April 2025 (PDF)
+  <a href="/files/Max_Heil_CV_June_2025.pdf" target="_blank">
+    <i class="fa fa-file-pdf-o"></i> Download CV - June 2025 (PDF)
   </a>
 </p>
 
