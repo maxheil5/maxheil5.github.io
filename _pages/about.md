@@ -16,9 +16,9 @@ Hello, I’m Max Heil — a graduate student in Aerospace Engineering at The Ohi
 > The Earth is the cradle of humanity, but one cannot live in the cradle forever.
 > <cite>Konstantin Tsiolkovsky - "father of astronautics"</cite>
 
-Curiosity drives me to explore the uncharted territories of design. I love pushing the boundaries and venturing into new design paradigms. As a perpetual learner, I stay updated with the latest industry trends, emerging technologies, and design methodologies, incorporating them into my work to deliver innovative and cutting-edge solutions.
+Throughout my academic and professional journey, I’ve gravitated toward complex, interdisciplinary problems — the kinds that demand both rigorous systems thinking and a willingness to iterate quickly under uncertainty. Whether it’s modeling spacecraft maneuvers, building experimental hardware, or leading cross-functional teams, I’m most engaged when engineering has a tangible mission impact.
 
-I am a firm believer in giving back to the design community that has nurtured and supported me. I volunteer my time to mentor aspiring designers, participate in design forums, and contribute to open-source projects. Sharing knowledge and collaborating with fellow designers brings a sense of fulfillment and camaraderie.
+Outside of engineering, I enjoy hiking, aviation (I’m a certified private pilot), building small tools and workflows to streamline creative projects, and exploring how digital platforms — like simulation, visualization, and rapid prototyping tools — can enhance engineering practice. I’m also an advocate for mentorship and student-led innovation, and I actively seek opportunities to help early-stage engineers grow their technical voice and leadership confidence.
 
 ![Friends](/images/102.jpg)
 *Photo by [Jessica Felicio](https://unsplash.com/@jekafe) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-woman-standing-between-two-men-CT6G8Mz4grs)*
