@@ -11,10 +11,10 @@ Download my CV here:
   </a>
 </p>
 
-Hello there! Welcome to my corner of the digital world. My name is Kevin, and I am a passionate Product Designer with a flair for crafting exceptional user experiences. I believe that design is not just about aesthetics but a powerful tool to make a positive impact on people’s lives. Beyond just aesthetics, I am deeply committed to designing for impact. Whether it’s improving daily routines, enhancing productivity, or fostering connections.
+Hello, I’m Max Heil — a graduate student in Aerospace Engineering at The Ohio State University, with a focus on space systems, guidance, navigation, and control (GNC), and autonomous mission operations. My work lies at the intersection of advanced control theory, orbital mechanics, and space mission design. I’ve contributed to projects ranging from on-orbit calibration algorithms for geostationary satellites to AI-guided docking mechanisms for lunar refueling systems. With experience across academia, industry, and government-sponsored research initiatives, I bring a systems-level perspective and a commitment to technical excellence in every project I undertake.
 
-> Design is not just what it looks like and feels like. Design is how it works.
-> <cite>Steve Jobs</cite>
+> The Earth is the cradle of humanity, but one cannot live in the cradle forever.
+> <cite>Konstantin Tsiolkovsky - "father of astronautics"</cite>
 
 Curiosity drives me to explore the uncharted territories of design. I love pushing the boundaries and venturing into new design paradigms. As a perpetual learner, I stay updated with the latest industry trends, emerging technologies, and design methodologies, incorporating them into my work to deliver innovative and cutting-edge solutions.
 
