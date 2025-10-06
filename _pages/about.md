@@ -2,7 +2,7 @@
 layout: page
 title: About <em>Me</em>
 permalink: /about/
-image: '/images/Medium_V2_10_25.jpg'
+image: '/images/Medium_V2_CROPPED_10_25.jpg'
 ---
 Download my CV here:
 <p>
