@@ -93,7 +93,7 @@ testimonial-items:
     content : Analyzed and categorized unknown spacecraft maneuvers using probability & game theory, and implemented Adaptive Monte Carlo techniques for accurate manuever detection.
 
   - name: Sierra Space
-    image: "/images/Sierra_Space_Logo.png"
+    image: "/images/Sierra_Space_Logo_V1.png"
     designation : Systems Engineering Intern, May 2025- Present
     content : Developed tools for on-orbit GNC sensor suite calibration and led joint effort for subsystem alignments on program goals.
 
