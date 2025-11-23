@@ -20,11 +20,7 @@ Throughout my academic and professional journey, I’ve gravitated toward comple
 
 Outside of engineering, I enjoy hiking, aviation (I’m a certified private pilot), building small tools and workflows to streamline creative projects, and exploring how digital platforms — like simulation, visualization, and rapid prototyping tools — can enhance engineering practice. I’m also an advocate for mentorship and student-led innovation, and I actively seek opportunities to help early-stage engineers grow their technical voice and leadership confidence.
 
-![Friends](/images/102.jpg)
-*Photo by [Jessica Felicio](https://unsplash.com/@jekafe) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-woman-standing-between-two-men-CT6G8Mz4grs)*
-
-Design has been an incredible journey of growth and self-discovery for me. I am deeply grateful for every opportunity that has come my way, every challenge that has shaped my skills, and every success that has inspired me to aim higher. With humility and enthusiasm, I look forward to the next chapter in my design adventure.
-
-As a Product Designer, I see design challenges as exciting opportunities to find elegant solutions. I enjoy breaking down complex problems into manageable components, collaborating with cross-functional teams, and iterating through multiple design cycles to arrive at the most effective and user-friendly outcomes.
+![Friends](images/IMG_3723.jpg)
+*NASA Human Lander Challenge - Marhsall Spaceflight Center, Huntsville, AL*
 
 ***
