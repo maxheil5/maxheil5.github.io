@@ -21,6 +21,6 @@ Throughout my academic and professional journey, I’ve gravitated toward comple
 Outside of engineering, I enjoy hiking, aviation (I’m a certified private pilot), building small tools and workflows to streamline creative projects, and exploring how digital platforms — like simulation, visualization, and rapid prototyping tools — can enhance engineering practice. I’m also an advocate for mentorship and student-led innovation, and I actively seek opportunities to help early-stage engineers grow their technical voice and leadership confidence.
 
 ![Friends](/images/IMG_3723.jpg)
-*NASA Human Lander Challenge - Marhsall Spaceflight Center, Huntsville, AL*
+*NASA Human Lander Challenge - Marshall Space Flight Center, Huntsville, AL*
 
 ***
