@@ -111,11 +111,11 @@ blog:
 faq:
   enable: true
   faq_title: Questions? <em>Answers</em>. # You can add an 'em' element to highlight text.
-  faq_description: Here are some answers to questions that I commonly get.
+  faq_description: Here are some answers to questions that I commonly get and just random facts about me.
 
 faq_items:
-  - title: What are your main areas of expertise in product design?
-    description: My specialization includes user interface (UI) and user experience (UX) design, prototyping, as well as researching and testing user needs.
+  - title: What are your main areas of expertise?
+    description: I specialize in many different areas of engineering. For aerospace applications, I have a focus on GNC, astrodynamics, space systems & mission design, space vehicle design, and robotics and UAVs. In general engineering applications, I enjoy working with mechanical design, dynamics, controls, CAD, prototyping, and fabrication and manufacturing.
 
   - title: Can you provide examples of your work?
     description: Yes, on my website, you can find a portfolio with examples of my projects and designs.
