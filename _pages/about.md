@@ -6,8 +6,8 @@ image: '/images/Medium_V2_CROPPED_10_25.jpg'
 ---
 Download my CV here:
 <p>
-  <a href="/files/Max_Heil_CV_June_2025.pdf" target="_blank">
-    <i class="fa fa-file-pdf-o"></i> Download CV - June 2025 (PDF)
+  <a href="/files/Max_Heil_Resume_Jan_2026.pdf" target="_blank">
+    <i class="fa fa-file-pdf-o"></i> Download Resume - January 2026 (PDF)
   </a>
 </p>
 
