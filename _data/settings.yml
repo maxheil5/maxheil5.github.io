@@ -111,26 +111,41 @@ blog:
 faq:
   enable: true
   faq_title: Questions? <em>Answers</em>. # You can add an 'em' element to highlight text.
-  faq_description: Here are some answers to questions that I commonly get and just random facts about me.
+  faq_description: Brief answers about my GNC, autonomy, and space systems work.
 
 faq_items:
   - title: What are your main areas of expertise?
-    description: I specialize in many different areas of engineering. For aerospace applications, I have a focus on GNC, astrodynamics, space systems & mission design, space vehicle design, and robotics and UAVs. In general engineering applications, I enjoy working with mechanical design, dynamics, controls, CAD, prototyping, and fabrication and manufacturing.
+    description: I focus on Guidance, Navigation & Control (GNC), autonomy, and space systems, especially data-driven modeling and constrained MPC for nonlinear rigid-body dynamics, plus quantization-aware control analysis for resource-limited systems.
 
-  - title: Can you provide examples of your work?
-    description: Yes, on my website, you can find a portfolio with examples of my projects and designs.
+  - title: What are you working on right now?
+    description: I support systems engineering and GNC efforts on defense satellite programs at Sierra Space, including an on-orbit calibration tool for spacecraft GNC sensor suites and program-critical ICD development.
 
-  - title: What is your experience with various platforms and devices?
-    description: I have extensive experience working with various platforms, including websites, mobile applications, tablets, and other devices.
+  - title: What research are you doing at Ohio State (SOAR Lab)?
+    description: I develop data-driven state-space models for nonlinear rigid-body dynamics and integrate them into constrained MPC for trajectory tracking and guidance, then quantify performance-bandwidth tradeoffs with structured sweeps and Monte Carlo studies.
 
-  - title: What tools and software do you use for work?
-    description: I work with tools such as Sketch, Adobe XD, Figma, InVision for creating designs and prototypes, and also use Jira and Trello for project management.
+  - title: What are a few projects you're most proud of?
+    description: Highlights include AMCC-AAC (autonomous cryogenic propellant transfer plus AI-driven docking alignment), TERRASat (12U CubeSat mission design), and IMPART (physics-based reentry and impact footprint prediction).
 
-  - title: How long does it take to develop a product design?
-    description: The development time depends on the complexity of the project. Usually, creating a product design takes from several weeks to several months.
+  - title: Have you published any papers?
+    description: Yes. Recent publications include a SciTech 2026 paper on quantization and data-driven MPC for quadcopters, and AMCC-AAC published through the NASA Human Lander Challenge forum (Best Prototype), among others.
 
-  - title: How can I contact you to discuss my project?
-    description: You can contact me through the contact form on my website or directly via email. I'm always open to new projects and ready to discuss your idea.
+  - title: What tools and software do you use most?
+    description: My core stack is MATLAB, Python, LaTeX, and Simulink, plus Ansys (STK and Fluent), SolidWorks, LabVIEW, ROS, and MS Office.
+
+  - title: What's your background in manufacturing/prototyping?
+    description: At Collins Aerospace I built automated manufacturing simulations in Visual Components and used metal additive manufacturing (Markforged Metal X) to improve strength-to-weight and reduce cost.
+
+  - title: Are you open to collaborations?
+    description: Yes! If it is related to GNC and autonomy, spacecraft systems, SDA, robotics, or experimental and prototyping-heavy engineering work, I am always interested in chatting. I'd love to learn about new areas of focus as well.
+
+  - title: How can I contact you?
+    description: "Email is best: max.heil@me.com (personal), heil.115@osu.edu (academic). You can also reach me through LinkedIn."
+
+  - title: Are you eligible for cleared/defense work?
+    description: I am a US Citizen and TS/SCI eligible.
+
+  - title: Do you fly?
+    description: Yes! I hold a Private Pilot Certificate (FAA) and like to fly as often as I can. 
 
 
 #-------------------------------
