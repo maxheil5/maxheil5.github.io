@@ -152,17 +152,17 @@ faq_items:
 # Gallery Settings
 gallery:
   enable: true
-  gallery_title: A Visual Journey Through <em>My World</em> # You can add an 'em' element to highlight text.
-  gallery_description: Step into my visual world where each image tells a story. From the bustling streets of urban landscapes to the serene beauty of nature, explore the moments that inspire and define my journey.
+  gallery_title: Life Outside <em>the Lab</em> # You can add an 'em' element to highlight text.
+  gallery_description: When I'm not working on engineering projects, I like to focus on hobbies, spend time with friends and family, travel, and explore the outdoors. Here are a few snapshots of my life outside the lab.
   gallery_caption:
 
 gallery_images:
-  - alt: 'Together'
-    url: '/images/100.jpg'
-  - alt: 'Lifestyle'
-    url: '/images/101.jpg'
-  - alt: 'Friends'
-    url: '/images/102.jpg'
+  - alt: 'Space Shuttle Atlantis on display at the Kennedy Space Center Visitor Complex.'
+    url: '/images/gallery-atlantis-shuttle.jpg'
+  - alt: 'Hogwarts Castle lit in blue at night behind trees.'
+    url: '/images/gallery-castle-night.jpg'
+  - alt: 'Family at Steelers Game'
+    url: '/images/gallery_steelers_game_family.jpeg'
 
 
 #-------------------------------
