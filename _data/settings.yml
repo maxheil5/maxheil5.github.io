@@ -165,6 +165,8 @@ gallery_images:
     url: '/images/gallery_universal_velocicoaster.jpeg'
   - alt: 'Family selfie at a Steelers game with Pittsburgh skyline in the background.'
     url: '/images/gallery_steelers_game_family.jpeg'
+  - alt: 'Steelers stadium before the game.'
+    url: '/images/gallery_steelers_game_stadium.jpeg'
 
 
 #-------------------------------
