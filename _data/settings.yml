@@ -161,7 +161,9 @@ gallery_images:
     url: '/images/gallery-atlantis-shuttle.jpg'
   - alt: 'Hogwarts Castle lit in blue at night behind trees.'
     url: '/images/gallery-castle-night.jpg'
-  - alt: 'Family at Steelers Game'
+  - alt: 'Universal VelociCoaster track at night.'
+    url: '/images/gallery_universal_velocicoaster.jpeg'
+  - alt: 'Family selfie at a Steelers game with Pittsburgh skyline in the background.'
     url: '/images/gallery_steelers_game_family.jpeg'
 
 
