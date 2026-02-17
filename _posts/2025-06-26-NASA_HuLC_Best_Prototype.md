@@ -2,7 +2,7 @@
 layout: post
 title: OSU Team wins Best Prototype at 2025 NASA HuLC Competition
 date: 2025-06-26 16:00:00 +0400
-image: '/images/HuLC_best_prototype_plaque.jpg'
+image: '/images/HuLC_best_prototype_plaque.jpeg'
 tags: [NASA, Space]
 ---
 At the 2025 NASA Human Lander Challenge (HuLC) Competition Forum in Huntsville, Alabama, **The Ohio State University HuLC Team was recognized with the _Best Prototype_ award** for our project: **Autonomous Magnetized Cryo-Couplers with Active Alignment Control for Propellant Transfer (AMCC-AAC)**.
