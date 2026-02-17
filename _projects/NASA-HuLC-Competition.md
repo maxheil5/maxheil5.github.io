@@ -104,4 +104,6 @@ Please reach out if you would like the full slides. The fonts and text don't sho
 
 <em>June 22, 2025</em>: The final paper, presentation, and poster have been uploaded to my website.
 
+<em>June 26, 2025<em>: The team wins Best Prototype award at the competition! Great work everyone!
+
 
