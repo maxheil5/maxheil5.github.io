@@ -8,15 +8,7 @@ This project presents a complete multi-stage kill chain for search and reacquisi
 
 The framework combines machine learning, orbit determination, probabilistic propagation, and filtering to reacquire an object on a second pass after initial ground-based sensing.
 
-<div class="gallery-box">
-  <div class="gallery gallery-columns-2">
-    <img src="/images/SRA_Cover_Image_Horizontal.png" loading="lazy" alt="Search and reacquisition project cover image (horizontal).">
-    <img src="/images/SRA_Cover_Image_Verticle.png" loading="lazy" alt="Search and reacquisition project cover image (vertical).">
-  </div>
-  <em>Project visual theme used during AIAA Region III presentation and manuscript development.</em>
-</div>
-
-See the conference presentation:
+See the conference presentation here:
 <p>
   <a href="/files/AIAA Presentation V2.pptx" target="_blank">
     <i class="fa fa-file-pdf-o"></i> AIAA Presentation (.pptx)
