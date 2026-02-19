@@ -46,9 +46,8 @@ Scope assumptions:
 </div>
 
 <div class="gallery-box">
-  <div class="gallery gallery-columns-2">
+  <div class="gallery gallery-columns-1">
     <img src="/images/Orbital_Decay_Image.png" loading="lazy" style="transform: rotate(90deg);" alt="Orbital decay geometry visualization around Earth for a degrading trajectory.">
-    <img src="/images/Satellite_Orbit_Decay_Visual.png" loading="lazy" alt="3D visualization of satellite orbital decay trajectory evolution over time.">
   </div>
   <em>Orbital decay geometry and trajectory visualization used to communicate phase-1 behavior.</em>
 </div>
