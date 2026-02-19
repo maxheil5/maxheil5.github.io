@@ -18,7 +18,7 @@ IMPART was my final project for **Orbital Mechanics (AE 5626)** at The Ohio Stat
 ## 2) Motivation
 Predicting uncontrolled reentry matters for public safety, mission operations, and post-mission risk communication. Even when nominal decay timing is understood, atmospheric variability, aerodynamic uncertainty, and breakup physics can widen uncertainty in final ground impact location.
 
-This project focused on the modeling backbone needed to reduce that uncertainty over time and make assumptions explicit.
+This project focused on the modeling backbone needed to reduce that uncertainty over time and make assumptions explicit. Below is an example of a debris piece from space that crashed through a house in Florida in 2021. It was over 4 inches tall!
 
 <div class="gallery-box">
   <div class="gallery gallery-columns-1">
@@ -39,8 +39,7 @@ Scope assumptions:
 - No breakup/heating coupling in the present solver chain.
 
 <div class="gallery-box">
-  <div class="gallery gallery-columns-2">
-    <img src="/images/initial_atmos_entry.png" loading="lazy" alt="Concept visual of an object entering Earth's upper atmosphere during reentry.">
+  <div class="gallery gallery-columns-1">
     <img src="/images/Simplified-representation-of-an-upper-stage-reentry.png" loading="lazy" alt="Simplified upper-stage reentry process with altitude regions and breakup concepts.">
   </div>
   <em>Reentry context visuals used to frame phase boundaries and survivability assumptions.</em>
@@ -48,7 +47,7 @@ Scope assumptions:
 
 <div class="gallery-box">
   <div class="gallery gallery-columns-2">
-    <img src="/images/Orbital_Decay_Image.png" loading="lazy" alt="Orbital decay geometry visualization around Earth for a degrading trajectory.">
+    <img src="/images/Orbital_Decay_Image.png" loading="lazy" style="transform: rotate(90deg);" alt="Orbital decay geometry visualization around Earth for a degrading trajectory.">
     <img src="/images/Satellite_Orbit_Decay_Visual.png" loading="lazy" alt="3D visualization of satellite orbital decay trajectory evolution over time.">
   </div>
   <em>Orbital decay geometry and trajectory visualization used to communicate phase-1 behavior.</em>
@@ -169,22 +168,3 @@ Planned next steps:
   </div>
   <em>Left: breakup uncertainty context. Right: example of target ground-impact probability output.</em>
 </div>
-
-## 9) Artifacts
-<p>
-  <a href="/files/OME_Final_Project_Report.pdf" target="_blank">
-    <i class="fa fa-file-pdf-o"></i> Final Project Report (PDF)
-  </a>
-</p>
-
-<p>
-  <a href="/files/AE5626_FinalPresentation.pdf" target="_blank">
-    <i class="fa fa-file-pdf-o"></i> Final Presentation (PDF)
-  </a>
-</p>
-
-## 10) References
-1. Picone, J. M., Hedin, A. E., Drob, D. P., and Aikin, A. C., "NRLMSISE-00 Empirical Model of the Atmosphere."
-2. MATLAB documentation for `atmosnrlmsise00` and ODE solvers (`ode113`).
-3. Vallado, D. A., *Fundamentals of Astrodynamics and Applications*.
-4. AE 5626 course notes and project report bibliography (Fall 2024).
