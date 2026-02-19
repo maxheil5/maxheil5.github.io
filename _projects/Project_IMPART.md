@@ -130,10 +130,10 @@ The decay solver produced expected trend behavior:
   <em>Altitude-time decay results for baseline and two sensitivity cases.</em>
 </div>
 
-### 6.3 Reentry trajectory outputs (present as "representative/illustrative"; include caveat)
+### 6.3 Reentry trajectory outputs
 The reentry plots below are representative outputs from the current 3DOF solver chain.
 
-> Important caveat: these reentry-stage trajectories were not fully validated and showed non-converging behavior in some runs. They are useful for debugging/model-development context, not final predictive claims.
+Important caveat: these reentry-stage trajectories were not fully validated and showed non-converging behavior in some runs. They are useful for debugging/model-development context, not final predictive claims.
 
 Likely contributors include integrator setup sensitivity, phase-transition conditioning, and low-fidelity aerodynamic assumptions.
 
@@ -167,3 +167,5 @@ Planned next steps:
   </div>
   <em>Left: breakup uncertainty context. Right: example of target ground-impact probability output.</em>
 </div>
+
+Feel free to reach out to discuss this project more!
