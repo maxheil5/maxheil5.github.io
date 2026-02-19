@@ -3,7 +3,7 @@ title: Search & Reacquisition of Resident Space Object
 date: 2024-08-28 08:01:35 +0300
 subtitle: Space Domain Awareness
 image: '/images/SRA_Cover_Image_Horizontal_V2.png'
-featured: false
+featured: true
 ---
 This project presents a complete multi-stage kill chain for search and reacquisition of resident space objects (RSOs), built and presented at the AIAA Region III Student Conference.
 

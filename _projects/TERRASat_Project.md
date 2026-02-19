@@ -4,7 +4,7 @@ title: Terrain Electromagnetic Reconnaissance and Regional Analysis Satellite (T
 date: 2024-08-10 08:01:35 +0300
 subtitle: Satellite Mission Design
 image: '/images/Orthographic_Render.png'
-featured: false
+featured: true
 ---
 The goal of TERRASat is to launch a small satellite (12U CubeSat) equipped with atmosphere breathing electric propulsion and instruments to measure magnetic fields. The satellite will be launched from Earth to Mars and will orbit Mars to monitor localized magnetic fields around craters with high resolution using AI to focus on areas of interest. This is important because magetic fields have been linked to signs of water, activity, and potentially life on other planets. This project revolutionizes how we treat data aquisition and scientific exploration of space!
 
