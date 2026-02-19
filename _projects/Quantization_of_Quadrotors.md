@@ -3,6 +3,7 @@ title: Effect of Quantization on Data-Driven Model Predictive Control of Quadcop
 date: 2024-06-05 08:01:35 +0300
 subtitle: Control Systems
 image: '/images/modalai-inc-drone-drone-only-px4-autonomy-developer-kit-43777520206128_2048x2048.jpg'
+featured: false
 ---
 The following project was my undergraduate research thesis for graduation with honors research distinction. You can find the published paper at: <a href="https://kb.osu.edu/handle/1811/105739">Knowledge Bank, Published 05/25</a>. The project has since evolved to be my graduate research project. Updates to the material are currently still being incorporated.
 

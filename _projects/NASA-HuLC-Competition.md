@@ -3,6 +3,7 @@ title: "AMCC-AAC: Autonomous Magnetized Cryo-Couplers with Active Alignment Cont
 date: 2025-03-30 08:01:35 +0300
 subtitle: Space Systems
 image: '/images/NASA_HuLC_Concept.jpg'
+featured: true
 ---
 In a unique opportunity, I was able to collaborate with 10 engineers from The Ohio State University to create an automated cryogenic refueling system for NASA's Human Lander System (HLS). Our design consists of a computer vision (CV) actuator alignment system that it used to autmatically connect two couplers for refueling on-orbit. For close proximity alignment, we developed an electromagnetic connection subcomponent that assists the AI alignment in the final compression phases. Through these methods, we reduce and possibly eliminate the need for constant human interaction when performing refueling missions in space. This will ultimately increase the likelihood for successful propellant transfer and help achieve NASA's efforts to conduct long duration missions to the Moon. This project was recently submitted as a proposal to NASA's Human Lander Challenge (HuLC). To learn more, read about the current status of the project below! This page will be updated with new information, when available.
 
@@ -105,5 +106,4 @@ Please reach out if you would like the full slides. The fonts and text don't sho
 <em>June 22, 2025</em>: The final paper, presentation, and poster have been uploaded to my website.
 
 <em>June 26, 2025<em>: The team wins Best Prototype award at the competition! Great work everyone!
-
 
