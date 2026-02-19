@@ -3,7 +3,7 @@ title: "Project IMPART — Integrated Modeling and Prediction of Atmospheric Ree
 date: 2024-12-12 00:46:23 -0500
 subtitle: Orbital Mechanics
 image: '/images/IMPART_LogoV1.png'
-featured: true
+featured: false
 permalink: /project/project-impart
 tags: [Research, Class Project, Orbital Mechanics, Reentry, MATLAB, Simulation]
 ---
