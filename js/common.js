@@ -129,8 +129,8 @@ document.addEventListener("DOMContentLoaded", function() {
       type: 'loop',
       autoScroll: {
         autoStart: false,
-        speed: 0.8,
-        pauseOnHover: false,
+        speed: 0.5,
+        pauseOnHover: true,
         pauseOnFocus: false
       },
       intersection: {
