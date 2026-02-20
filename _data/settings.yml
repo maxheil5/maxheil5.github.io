@@ -77,6 +77,16 @@ testimonial-items:
     designation : Undergraduate, August 2021 - May 2025
     content : Graduated from Ohio State in May 2025 with a Bachelor of Science in Aerospace Engineering with Honors Research Distinction
 
+  - name: The Ohio State University
+    image: "/images/Ohio_State_Big_O.jpg"
+    designation : Graduate, August 2025 - May 2026
+    content : Planned graduation with MS in Aerospace Engineering in May 2026, with a focus on GNC, autonomy, and space systems, and research in data-driven modeling and constrained MPC for nonlinear rigid-body dynamics.
+
+  - name: LADDCS Laboratory
+    image: "/images/Ohio_State_Big_O.jpg"
+    designation : Space Systems Graduate Researcher, June 2024 - Dec 2025
+    content : Analyzed and categorized unknown spacecraft maneuvers using probability & game theory, and implemented Adaptive Monte Carlo techniques for accurate manuever detection.
+
   - name: Collins Aerospace
     image: "/images/Collins-Aerospace-Logo_Circular.png"
     designation : Advanced Manufacturing Engineering Intern, May 2024 - Jan 2025
@@ -84,13 +94,8 @@ testimonial-items:
 
   - name: SOAR Laboratory
     image: "/images/SOAR_Logo.png"
-    designation : Controls Undergraduate Researcher, Sept 2023 - Present
+    designation : Controls Undergraduate/Graduate Researcher, Sept 2023 - Present
     content : Designed data-driven UAV control algorithms, investigated the effects of dither quantization in constrained environments, and conduct drone flight tests.
-
-  - name: LADDCS Laboratory
-    image: "/images/Ohio_State_Big_O.jpg"
-    designation : Space Systems Graduate Researcher, June 2024 - Present
-    content : Analyzed and categorized unknown spacecraft maneuvers using probability & game theory, and implemented Adaptive Monte Carlo techniques for accurate manuever detection.
 
   - name: Sierra Space
     image: "/images/Sierra_Space_Logo_V1.png"
@@ -103,7 +108,7 @@ testimonial-items:
 blog:
   enable: true
   blog_title: Latest <em>News</em> & <em>Activities</em> # You can add an 'em' element to highlight text.
-  blog_description: Discover the latest industry news, insights, and trends in a few clicks.
+  blog_description: Discover the latest news, insights, and information about my life in a few clicks.
 
 
 #-------------------------------
@@ -122,6 +127,12 @@ faq_items:
 
   - title: What research are you doing at Ohio State (SOAR Lab)?
     description: I develop data-driven state-space models for nonlinear rigid-body dynamics and integrate them into constrained MPC for trajectory tracking and guidance, then quantify performance-bandwidth tradeoffs with structured sweeps and Monte Carlo studies.
+
+  - title: What classes have you/are you taking at Ohio State?
+    description: Courses I have taken include Guidance Navigation & Control, Spacecraft Controls, Continuous Time Optimal Control,
+      Advanced Kinematics & Mechanisms (Robotics), Energy Conversion & Storage Systems for Electrified Propulsion, Estimation & Filtering, Linear Systems,
+      Dynamics & Vibrations, Orbital Mechanics, Space Mission Design, Advanced Math Methods, Numerical Methods,
+      Aerodynamics, Experimental Fluid Mechanics, Gas Dynamics, Thermodynamics, Mechanical Design, Statics, Circuits
 
   - title: What are a few projects you're most proud of?
     description: Highlights include AMCC-AAC (autonomous cryogenic propellant transfer plus AI-driven docking alignment), TERRASat (12U CubeSat mission design), and IMPART (physics-based reentry and impact footprint prediction).
