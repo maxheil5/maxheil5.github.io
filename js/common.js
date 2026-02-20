@@ -131,7 +131,7 @@ document.addEventListener("DOMContentLoaded", function() {
         autoStart: false,
         speed: 0.3,
         pauseOnHover: true,
-        pauseOnFocus: true
+        pauseOnFocus: false
       },
       intersection: {
         inView: {
