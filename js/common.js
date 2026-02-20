@@ -125,7 +125,7 @@ document.addEventListener("DOMContentLoaded", function() {
       gap: 32,
       arrows: false,
       drag: true,
-      pagination: false,
+      pagination: true,
       type: 'loop',
       autoScroll: {
         autoStart: false,
